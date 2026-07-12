@@ -1,16 +1,21 @@
-## Hi there 👋
+# Hey, I'm Saurav 👋
 
-<!--
-**stansaurav-ux/stansaurav-ux** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Computer Engineering student (7th sem) building my way into product & tech.
 
-Here are some ideas to get you started:
+## What I'm doing right now
+- Learning Linux, Python, and cloud fundamentals from scratch
+- Prepping for AWS Cloud Practitioner cert
+- Exploring product management + fintech
+- Training boxing + gym 6x a week (unrelated but non-negotiable)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Projects
+- 🖥️ [system-info](https://github.com/stansaurav-ux/system-info) — Python CLI tool that reports system stats (disk, memory, IP, etc.)
+- 📁 [file-organizer](https://github.com/stansaurav-ux/file-organizer) — Python script that auto-sorts files by type
+- 🏋️ [gym-website](https://github.com/stansaurav-ux/gym-website) — Responsive gym site built with HTML/CSS/JS
+
+## Currently learning
+Building projects in public and documenting my AWS journey on [Medium] https://medium.com/@stansaurav
+
+## Reach me
+- LinkedIn: https://www.linkedin.com/in/saurav-karmacharya-a3145231a/
+- Email: stansaurav@gmail.com
